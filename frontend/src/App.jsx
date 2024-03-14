@@ -1,11 +1,4 @@
-
-
-function App() {
-
-  return ( <h1 className="text-3xl font-bold underline">
-  Hello world!
-</h1>
-  )
+function app() {
+  return <>hello fucker</>
 }
-
-export default App
+export default app;
